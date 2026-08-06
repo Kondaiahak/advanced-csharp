@@ -1,0 +1,14 @@
+C:\Users\SUKANYA\OneDrive\Desktop\.net\milestone-2\advanced csharp\Delegates\mathematical_operations\bin\Debug\net10.0\mathematical_operations.exe
+C:\Users\SUKANYA\OneDrive\Desktop\.net\milestone-2\advanced csharp\Delegates\mathematical_operations\bin\Debug\net10.0\mathematical_operations.deps.json
+C:\Users\SUKANYA\OneDrive\Desktop\.net\milestone-2\advanced csharp\Delegates\mathematical_operations\bin\Debug\net10.0\mathematical_operations.runtimeconfig.json
+C:\Users\SUKANYA\OneDrive\Desktop\.net\milestone-2\advanced csharp\Delegates\mathematical_operations\bin\Debug\net10.0\mathematical_operations.dll
+C:\Users\SUKANYA\OneDrive\Desktop\.net\milestone-2\advanced csharp\Delegates\mathematical_operations\bin\Debug\net10.0\mathematical_operations.pdb
+C:\Users\SUKANYA\OneDrive\Desktop\.net\milestone-2\advanced csharp\Delegates\mathematical_operations\obj\Debug\net10.0\mathematical_operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUKANYA\OneDrive\Desktop\.net\milestone-2\advanced csharp\Delegates\mathematical_operations\obj\Debug\net10.0\mathematical_operations.AssemblyInfoInputs.cache
+C:\Users\SUKANYA\OneDrive\Desktop\.net\milestone-2\advanced csharp\Delegates\mathematical_operations\obj\Debug\net10.0\mathematical_operations.AssemblyInfo.cs
+C:\Users\SUKANYA\OneDrive\Desktop\.net\milestone-2\advanced csharp\Delegates\mathematical_operations\obj\Debug\net10.0\mathematical_operations.csproj.CoreCompileInputs.cache
+C:\Users\SUKANYA\OneDrive\Desktop\.net\milestone-2\advanced csharp\Delegates\mathematical_operations\obj\Debug\net10.0\mathematical_operations.dll
+C:\Users\SUKANYA\OneDrive\Desktop\.net\milestone-2\advanced csharp\Delegates\mathematical_operations\obj\Debug\net10.0\refint\mathematical_operations.dll
+C:\Users\SUKANYA\OneDrive\Desktop\.net\milestone-2\advanced csharp\Delegates\mathematical_operations\obj\Debug\net10.0\mathematical_operations.pdb
+C:\Users\SUKANYA\OneDrive\Desktop\.net\milestone-2\advanced csharp\Delegates\mathematical_operations\obj\Debug\net10.0\mathematical_operations.genruntimeconfig.cache
+C:\Users\SUKANYA\OneDrive\Desktop\.net\milestone-2\advanced csharp\Delegates\mathematical_operations\obj\Debug\net10.0\ref\mathematical_operations.dll
