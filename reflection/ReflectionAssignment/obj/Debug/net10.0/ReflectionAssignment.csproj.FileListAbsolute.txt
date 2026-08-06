@@ -1,0 +1,14 @@
+C:\Users\SUKANYA\OneDrive\Desktop\.net\milestone-2\advanced csharp\reflection\ReflectionAssignment\bin\Debug\net10.0\ReflectionAssignment.exe
+C:\Users\SUKANYA\OneDrive\Desktop\.net\milestone-2\advanced csharp\reflection\ReflectionAssignment\bin\Debug\net10.0\ReflectionAssignment.deps.json
+C:\Users\SUKANYA\OneDrive\Desktop\.net\milestone-2\advanced csharp\reflection\ReflectionAssignment\bin\Debug\net10.0\ReflectionAssignment.runtimeconfig.json
+C:\Users\SUKANYA\OneDrive\Desktop\.net\milestone-2\advanced csharp\reflection\ReflectionAssignment\bin\Debug\net10.0\ReflectionAssignment.dll
+C:\Users\SUKANYA\OneDrive\Desktop\.net\milestone-2\advanced csharp\reflection\ReflectionAssignment\bin\Debug\net10.0\ReflectionAssignment.pdb
+C:\Users\SUKANYA\OneDrive\Desktop\.net\milestone-2\advanced csharp\reflection\ReflectionAssignment\obj\Debug\net10.0\ReflectionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUKANYA\OneDrive\Desktop\.net\milestone-2\advanced csharp\reflection\ReflectionAssignment\obj\Debug\net10.0\ReflectionAssignment.AssemblyInfoInputs.cache
+C:\Users\SUKANYA\OneDrive\Desktop\.net\milestone-2\advanced csharp\reflection\ReflectionAssignment\obj\Debug\net10.0\ReflectionAssignment.AssemblyInfo.cs
+C:\Users\SUKANYA\OneDrive\Desktop\.net\milestone-2\advanced csharp\reflection\ReflectionAssignment\obj\Debug\net10.0\ReflectionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\SUKANYA\OneDrive\Desktop\.net\milestone-2\advanced csharp\reflection\ReflectionAssignment\obj\Debug\net10.0\ReflectionAssignment.dll
+C:\Users\SUKANYA\OneDrive\Desktop\.net\milestone-2\advanced csharp\reflection\ReflectionAssignment\obj\Debug\net10.0\refint\ReflectionAssignment.dll
+C:\Users\SUKANYA\OneDrive\Desktop\.net\milestone-2\advanced csharp\reflection\ReflectionAssignment\obj\Debug\net10.0\ReflectionAssignment.pdb
+C:\Users\SUKANYA\OneDrive\Desktop\.net\milestone-2\advanced csharp\reflection\ReflectionAssignment\obj\Debug\net10.0\ReflectionAssignment.genruntimeconfig.cache
+C:\Users\SUKANYA\OneDrive\Desktop\.net\milestone-2\advanced csharp\reflection\ReflectionAssignment\obj\Debug\net10.0\ref\ReflectionAssignment.dll
